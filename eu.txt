@@ -1,2 +1,3 @@
 Hello, my name is Debanjan
+Hello, I am Debanjan from eu-merge-with-conflict branch.
 Hello, I am Debanjan from master branch
